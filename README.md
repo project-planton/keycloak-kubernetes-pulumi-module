@@ -1,2 +1,3 @@
-# keycloak-kubernetes-pulumi-module
-Pulumi Module to Deploy "Keycloak on Kubernetes" w/ Planton Cloud
+# Deploy Keycloak on Kubernetes
+
+This is a Planton Cloud Pulumi Module to deploy Keycloak on Kubernetes.
